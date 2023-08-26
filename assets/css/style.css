@@ -1682,7 +1682,7 @@ section {
 
 #footer .copyright {
   text-align: center;
-  float: left;
+  /* float: left; */
 }
 
 #footer .credits {
